@@ -5,5 +5,6 @@ public class HelloWorld
 	{
 	 System.out.println("Hello, Welcome to Jenkins!");
 	 System.out.println("checking any changes by Polling SCM");
+	 System.out.println("checking any changes by webhook SCM");	
 	}
 }
